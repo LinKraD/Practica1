@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practica1</string>
+    <string name="tuNombre">Escribe tu nombre</string>
+    <string name="saludo">Hola</string>
+    <string name="DimeHora">DIME LA HORA</string>
+    <string name="minombre">Gabriel Vidal</string>
+</resources>
